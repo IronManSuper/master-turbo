@@ -1,0 +1,6 @@
+[submodule "children"]
+	path = children
+	url = git@github.com:IronManSuper/app-web.git
+[submodule "apps/app-web"]
+	path = apps/app-web
+	url = git@github.com:IronManSuper/app-web.git
