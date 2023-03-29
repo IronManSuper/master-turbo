@@ -1,3 +1,6 @@
 [submodule "apps/app-web"]
 	path = apps/app-web
 	url = git@github.com:IronManSuper/app-web.git
+[submodule "apps/docs"]
+	path = apps/docs
+	url = git@github.com:IronManSuper/docs.git
